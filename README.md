@@ -3,7 +3,7 @@
 </p>
 
 <br>
-#<h1 align="center">Hi there 👋, I'm Maulia Salindry!</h1>
+<h1 align="center">Hi there 👋, I'm Maulia Salindry!</h1>
 
 <h3 align="center">
 Digital Business Student | Front-End Developer | UI/UX Enthusiast
