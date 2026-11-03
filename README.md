@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./file_00000000db588211bbfa3969f278f7ce.png" width="100%" />
+</p>
+
+<br>
 #<h1 align="center">Hi there 👋, I'm Maulia Salindry!</h1>
 
 <h3 align="center">
