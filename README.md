@@ -19,7 +19,7 @@ Digital Business Student | Front-End Developer | UI/UX Enthusiast
 
 Hello! I'm **Maulia Salindry**, a Digital Business student at Universitas Negeri Jakarta.
 
-I have a background in Software Engineering and a strong interest in Front-End Development, UI/UX Design, and Digital Innovation.
+I have a background in Software Engineering SMKN 24 Jakarta and a strong interest in Front-End Development, UI/UX Design, and Digital Innovation.
 
 I love combining technology, creativity, and business to build meaningful digital experiences.
 
