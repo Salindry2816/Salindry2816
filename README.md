@@ -138,18 +138,19 @@ software engineering through practical projects.
 
 ---
 
-## 🤝 Connect With Me
-## 🤝 Connect With Me
+🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Salindry2816" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mauliasalindry" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/mauliasalindry/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/lia_indriani1630/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
----
 
 <p align="center">
   <i>"Combining technology, creativity, and business to build meaningful digital solutions."</i>
